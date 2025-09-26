@@ -1,40 +1,72 @@
-<h1 align="center">Hi 👋, I'm SHIVA</h1>
-<h3 align="center">A passionate Software Developer and Tester from India</h3>
+<h1 align="center">Hey 👋, I'm SHIVA</h1>
+<h3 align="center">🚀 Aspiring Full-Stack Developer | Automotive Enthusiast | Tech Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivanishanth2&label=Profile%20views&color=0e75b6&style=flat" alt="sivanishanth2" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivanishanth2" alt="sivanishanth2" /></a> </p>
+## 🌟 About Me
+- 💻 Passionate about **Full Stack Development** and **Automotive Embedded Systems**  
+- 🛠️ Skilled at building scalable apps & solving real-world problems  
+- 🔎 Debugs until the error *gives up and leaves*  
+- ☕ Runs on **coffee, Wi-Fi, and Stack Overflow**  
+- 🎯 Goal: Master **CAN, CAPL, and Embedded Systems** for Automotive Industry  
 
-<p align="left"> <a href="https://twitter.com/sivanishanth" target="blank"><img src="https://img.shields.io/twitter/follow/sivanishanth?logo=twitter&style=for-the-badge" alt="sivanishanth" /></a> </p>
+---
 
-- 🔭 I’m currently working on [Online E-Commerce website for Clothing](https://github.com/Sivanishanth2/Online-e-commerce-website-for-clothing)
-
-- 🌱 I’m currently learning **Core Java & Advanced Java**
-
-- 👯 I’m looking to collaborate on [Machine Learning Projcts](https://github.com/Sivanishanth2/AI-Powered-insurance-risk-analysis-main)
-
-- 🤝 I’m looking for help with [Website hosting for my Portfolio](https://github.com/Sivanishanth2/Personal_Portfolio)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Sivanishanth2/Personal_Portfolio](https://github.com/Sivanishanth2/Personal_Portfolio)
-
-- 💬 Ask me about **Manual and Automation Testing**
-
-- 📫 How to reach me **shivachandra2702@gmail.com**
-
-- ⚡ Fun fact **Partime Coder Full time Sleeper**
-
-<h3 align="left">Connect with me:</h3>
+## 🔗 Connect With Me
 <p align="left">
-<a href="https://twitter.com/sivanishanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sivanishanth" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sivanishanth-c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sivanishanth-c" height="30" width="40" /></a>
-<a href="https://instagram.com/@_.itz_shiv__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_.itz_shiv__" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sivanishanth-c/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/_.itz_shiv__" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+<a href="mailto:shivachandra2702@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivanishanth2&show_icons=true&locale=en&layout=compact" alt="sivanishanth2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivanishanth2&show_icons=true&locale=en" alt="sivanishanth2" /></p>
+## 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivanishanth2&" alt="sivanishanth2" /></p>
+**Languages**
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,c,cpp,mysql,mongodb,sqlite" />
+</p>
+
+**Frameworks & Tools**
+<p>
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,express,tailwind,git,github,vscode,eclipse" />
+</p>
+
+**Automotive & Embedded Skills**
+- CAN, CANoe, CANalyzer  
+- CAPL Scripting  
+- Embedded C Programming  
+- Microcontrollers (ARM, Arduino, Raspberry Pi)  
+- Real-time Debugging & Testing  
+
+---
+# 📊 GitHub Stats & Analysis
+
+![Shiv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sivanishanth2&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivanishanth2&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sivanishanth2&theme=radical)
+
+---
+
+## 🏆 Achievements
+- ⭐ Total Stars Earned: 7+  
+- 🔥 Total Commits: 20+  
+- 📂 PRs: 4+ | Issues: 2+  
+- 💡 Currently contributing in **Full Stack Projects & Automotive Systems**  
+
+---
+
+## 🚀 Fun Facts
+- 🧑‍💻 Writes bugs faster than testers can find them. 
+- 🥷 My code is 90% Google, 10% trial & error.
+- 🛠️ "Works on my machine" is not a bug, it’s a feature.
+- 🐛 Debugging is like being the detective of your own crime
+- 🐧 Believes printf("Hello World") is still the greatest invention.  
+
+---
+
+                                                   ✨ _"Dream big, code smart, debug harder."_ ✨
