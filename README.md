@@ -71,5 +71,9 @@
 - 🐧 Believes printf("Hello World") is still the greatest invention.  
 
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sivanishanth2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
 
                                                    ✨ _"Dream big, code smart, debug harder."_ ✨
