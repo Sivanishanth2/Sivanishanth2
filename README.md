@@ -60,7 +60,7 @@
 ---
 
 ## 🏆 Achievements
-- ⭐ Total Stars Earned: 7+  
+- ⭐ Total Stars Earned: 10+  
 - 🔥 Total Commits: 20+  
 - 📂 PRs: 4+ | Issues: 2+  
 - 💡 Currently contributing in **Full Stack Projects & Automotive Systems**  
