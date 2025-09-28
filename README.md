@@ -54,6 +54,10 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sivanishanth2&theme=radical)
 
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sivanishanth2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
 
 ## 🏆 Achievements
 - ⭐ Total Stars Earned: 7+  
@@ -71,9 +75,6 @@
 - 🐧 Believes printf("Hello World") is still the greatest invention.  
 
 ---
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sivanishanth2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
 
                                                    ✨ _"Dream big, code smart, debug harder."_ ✨
