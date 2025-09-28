@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm SHIVA</h1>
+<h1 align="center">S I V A N I S H A N T H </h1>
 <h3 align="center">🚀 Aspiring Full-Stack Developer | Automotive Enthusiast | Tech Explorer</h3>
 
 ---
