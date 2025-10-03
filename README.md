@@ -34,7 +34,7 @@
 
 **Frameworks & Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=react,next,nodejs,tailwind,git,github,vscode,eclipse,arduino,can" />
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,tailwind,git,github,vscode,eclipse,arduino,raspberrypi,discord" />
 </p>
 
 **Automotive & Embedded Skills**
