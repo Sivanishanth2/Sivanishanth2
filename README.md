@@ -58,7 +58,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivanishanth2&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sivanishanth2&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sivanishanth2&theme=radical&hide_border=true&border_radius=10)
+
 
 ---
 ## 🏆 GitHub Trophies
