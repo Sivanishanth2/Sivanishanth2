@@ -36,7 +36,7 @@
 
 **Languages**
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,ts,html,css,js,c,cpp,mysql,mongodb,sqlite" />
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,c,cpp,mysql,mongodb,sqlite" />
 </p>
 
 **Frameworks & Tools**
