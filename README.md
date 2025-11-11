@@ -13,7 +13,7 @@
 - 🕹️ Tabs vs Spaces? I declare war daily. 
 - 🎯 Goal: Master **CAN, CAPL, and Embedded Systems** for Automotive Industry  
 
----
+--- 
 
 ## 🔗 Connect With Me
 <p align="left">
