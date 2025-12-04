@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Full-Stack Developer | Automotive Enthusiast | Tech Explorer</h3>
 
 ---
-
+     
 ## 🌟 About Me
 - 💻 Passionate about **Full Stack Development** and **Automotive Embedded Systems**  
 - 🛠️ Skilled at building scalable apps & solving real-world problems
