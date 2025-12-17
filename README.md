@@ -7,7 +7,7 @@
 - 💻 Passionate about **Full Stack Development** and **Automotive Embedded Systems**  
 - 🛠️ Skilled at building scalable apps & solving real-world problems         
 - 🔎 Debugs until the error *gives up and leaves*
-- 👨🏻‍💻 Writes code in a hurry, debugs at midnight.
+- 👨🏻‍💻 Writes code in a hurry, debugs at midnight.          
 - ☕ Runs on **coffee, Wi-Fi, and Stack Overflow**
 - 🕵️‍♂️ Bug hunting: where patience goes to die. 
 - 🕹️ Tabs vs Spaces? I declare war daily. 
